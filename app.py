@@ -58,7 +58,7 @@ st.markdown(
     <div style="text-align: center; margin-bottom: 15px;">
         <h2 style="margin-bottom: 2px;">Circular Frustum Generator</h2>
         <p style="font-size: 13px; color: #666; margin-top: 0px;">
-            A tool that generates AutoCAD-ready scripts for unfolded circular wooden frustums designed for CNC cutting.
+            A tool that generates IMAWOP 2.6 files for unfolded circular wooden frustums designed for CNC cutting.
         </p>
     </div>
     """,
