@@ -1,0 +1,14 @@
+[N'G3R-XY]
+AFB=1
+AGGD=AGGDREHBAR
+AGGFWKL=AGGWKL
+AGGO=AGGOFFSET
+BEZB=Circle anticlockwise
+EB=EBG
+EPX={epx:.1f}
+EPY={epy:.1f}
+EPZ=Z
+F=V
+MPX=X
+MPY=Y
+R={aktina:.1f}
