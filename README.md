@@ -4,7 +4,7 @@ A Python application that calculates the two-dimensional developed surface of ci
 
 ## Project Showcase
 
-_Coming soon..._
+[![Wooden Frustum Unfolder Demo](https://img.youtube.com/vi/um9QZ45gd-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=um9QZ45gd-Q)
 
 ## The Client Project
 
@@ -25,6 +25,10 @@ After completing the client project, I extended the mathematical approach to ell
 The extension calculates the unrolled geometry from the ellipse axes and height, then generates an AutoCAD-compatible `.scr` script containing the boundary paths and kerf-cut coordinates.
 
 Unlike the original application, this extension is not tied to IMAWOP or a specific CNC machine. Its AutoCAD-ready output can be incorporated into general CAD/CAM and CNC workflows.
+
+Below is the demo of this extension.
+
+[![Wooden Frustum Unfolder Demo](https://img.youtube.com/vi/9bOSvsbDzCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=9bOSvsbDzCo)
 
 ## Technologies
 
