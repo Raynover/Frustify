@@ -41,8 +41,9 @@ At this stage, the approach is intended for thin sheet metal fabrication, since 
 ## Technologies
 
 - Python
-- Streamlit
+- SciPy
 - NumPy
+- Streamlit
 - Plotly
 - Mathematical and geometric modelling
 - IMAWOP 2.6 `.fmc` file generation
