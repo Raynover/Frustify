@@ -20,7 +20,7 @@ This replaces hours of manual calculations and coordinate entry with an automati
 
 ## Elliptical Frustum Extension
 
-After completing the client project, I extended the mathematical approach to elliptical wooden frustums.
+After completing the client project, I extended the mathematical approach to elliptical wooden frustums. This is a proprietary implementation.
 
 The extension calculates the unrolled geometry from the ellipse axes and height, then generates an AutoCAD-compatible `.scr` script containing the boundary paths and kerf-cut coordinates.
 
@@ -29,6 +29,14 @@ Unlike the original application, this extension is not tied to IMAWOP or a speci
 Below is the demo of this extension.
 
 [![Wooden Frustum Unfolder Demo](https://img.youtube.com/vi/9bOSvsbDzCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=9bOSvsbDzCo)
+
+## Non Developable Surfaces - Meshing
+
+Another proprietary project is the coffee table shown below. Its surface is not developable, so I used meshing to approximate it. It is a ruled surface, so the same approach can be extended to other ruled surfaces, given the curves that define them.
+
+At this stage, the approach is intended for thin sheet metal fabrication, since it models the surface without accounting for material thickness. I plan, (not so) soon, to implement a version that accounts for material thickness for wooden construction.
+
+![Showcase of the coffee table](media/non_developable.png)
 
 ## Technologies
 
